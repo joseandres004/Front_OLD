@@ -118,8 +118,7 @@ function FifthSection(props) {
     }
 
 
-    return ( <
-        section id = "contact" >
+    return ( < section id = "contact" >
         <
         div id = "divFifthSection" >
         <
@@ -150,10 +149,7 @@ function FifthSection(props) {
         p className = "col-md-4 mb-0 text-muted"
         id = "pFooter" > & copy; 2020© All rights reserved. < /p> <
         a img = './imagenes/footer-logo.png'
-        id = "footerImage" > < /a> < /
-        footer > <
-        /div> < /
-        section >
+        id = "footerImage" > < /a> </footer > < /div> </section >
     )
 }
 
